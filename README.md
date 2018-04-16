@@ -1,3 +1,1 @@
-# map
-
-This is a java map that takes coordinate we are initially in as an input and allows the user to know the direction to a certain point, to keep note about the coordinate and to trace all the coordinate the user has been to.
+This is a java map that asks the user for an initial coordinate. A user can then choose four different options - move to a new point, direction to a point, keep a note of a certain point or retrace the coordinates they have been to. 
